@@ -1,0 +1,33 @@
+[
+    {
+      "load_id": "123",
+      "origin": "Dallas, TX",
+      "destination": "Chicago, IL",
+      "pickup_datetime": "2025-07-20T08:00:00",
+      "delivery_datetime": "2025-07-22T18:00:00",
+      "equipment_type": "Dry Van",
+      "loadboard_rate": 2500,
+      "notes": "Fragile, handle with care",
+      "weight": 40000,
+      "commodity_type": "Electronics",
+      "num_of_pieces": 20,
+      "miles": 925,
+      "dimensions": "48x48x96"
+    },
+    {
+      "load_id": "456",
+      "origin": "Atlanta, GA",
+      "destination": "Miami, FL",
+      "pickup_datetime": "2025-07-21T09:00:00",
+      "delivery_datetime": "2025-07-21T20:00:00",
+      "equipment_type": "Reefer",
+      "loadboard_rate": 1800,
+      "notes": "",
+      "weight": 30000,
+      "commodity_type": "Automative",
+      "num_of_pieces": 15,
+      "miles": 660,
+      "dimensions": "48x48x80"
+    }
+  ]
+  

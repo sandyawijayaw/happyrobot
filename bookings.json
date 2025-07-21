@@ -1,0 +1,13 @@
+[
+  {
+    "carrier": "Acme Logistics",
+    "mc_number": "123456",
+    "load_id": "xyz123",
+    "agent_notes": "Confirmed Monday"
+  },
+  {
+    "load_id": "load123",
+    "carrier": "CarrierName",
+    "details": "some details"
+  }
+]
